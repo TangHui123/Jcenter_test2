@@ -4,7 +4,7 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'jcenter-test2'
 
-    publishedGroupId = 'com.example.tanghui.mylibrary'
+    publishedGroupId = 'com.jcenter.tanghui.mylibrary'
     libraryName = 'jcentertest'
     artifact = 'jcenter-test2'
 
@@ -13,7 +13,7 @@ ext {
     siteUrl = 'https://github.com/TangHui123/Jcenter_test2'
     gitUrl = 'https://github.com/TangHui123/Jcenter_test2.git'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'TangHui123'
     developerName = 'Tang Hui'
